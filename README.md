@@ -1,0 +1,1 @@
+In this odin project I will have demonstrated my ability to us basic code to set up a HTML web page as well as using CSS coding to style it.
